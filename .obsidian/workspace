@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "9c31524c8334f24b",
+    "type": "split",
+    "children": [
+      {
+        "id": "747daf64bf788fe9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "$Определения в области ТЗИ.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07ccbcb05e36a88e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b310156a0d6ed325",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6c935804fafa1fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c95a72a091c3dd37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "15aceeff040d56ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "637b66d1ed2578d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ca8acb83dfd9884",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "$Определения в области ТЗИ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "747daf64bf788fe9",
+  "lastOpenFiles": [
+    "$Определения в области ТЗИ.md",
+    "База знаний.md",
+    "Акутальная угроза безопасности персональных данных.md",
+    "$Создание базы знаний.md",
+    "$Работа с персональными данными.md"
+  ]
+}
