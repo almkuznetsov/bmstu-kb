@@ -1,0 +1,1 @@
+http://www.ict.nsc.ru/jspui/bitstream/ICT/299/3/ISO-IEC_2382-1.pdf
