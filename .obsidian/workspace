@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4309e083fe196fe8",
+        "id": "bd1d9a44968f3c04",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! Список тем.md",
+            "file": "Темы/Перепрошив Флешки.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! Список тем.md",
+                "file": "Темы/Перепрошив Флешки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4309e083fe196fe8",
+  "active": "bd1d9a44968f3c04",
   "lastOpenFiles": [
+    "Темы/Перепрошив Флешки.md",
     "! Список тем.md",
+    "README.md",
+    "Темы/$Интерфейсы.md",
     "Заметки/RJ-11 и RJ-12.md",
     "Заметки/RJ.md",
     "Медиафайлы/RJ-11 connect.jpg",
-    "Темы/$Интерфейсы.md",
     "Заметки/RJ-9.md",
     "Медиафайлы/RJ.png",
-    "Медиафайлы/RJ-9 ширина.jpg",
-    "Медиафайлы/RJ-9 connect.jpg",
-    "Медиафайлы/RJ-9 4P4C.png"
+    "Медиафайлы/RJ-9 ширина.jpg"
   ]
 }
