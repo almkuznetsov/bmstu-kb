@@ -9,11 +9,48 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! Список тем.md",
-            "mode": "preview",
+            "file": "Заметки/Канал утечки через оптоволоконные кабели.md",
+            "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "1de4775a706ff623"
+      },
+      {
+        "id": "3f5540ba5adbc419",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Заметки/Канал утечки через оптоволоконные кабели.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "1de4775a706ff623"
       }
     ],
     "direction": "vertical"
@@ -69,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! Список тем.md",
+                "file": "Заметки/Канал утечки через оптоволоконные кабели.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4309e083fe196fe8",
+  "active": "a6c935804fafa1fe",
   "lastOpenFiles": [
-    "Заметки/Интерфейс.md",
-    "Темы/$Интерфейсы.md",
+    "Темы/$Систематизация ТКУИ.md",
+    "Заметки/ТКУИ за счет перехвата акустических сигналов микрофонами.md",
     "! Список тем.md",
-    "Заметки/LPT.md",
+    "$Объединение баз и интерфейсов.md",
+    "Темы/$Создание базы знаний.md",
+    "Темы/$Определения.md",
+    "Заметки/Зона ЭМИ.md",
+    "Темы/$Интерфейсы.md",
     "Заметки/RJ-11 и RJ-12.md",
-    "Заметки/Информация.md",
-    "Заметки/ТКУИ.md",
-    "Источники/Учебные пособия/Хорев А.А. Техническая защита информации учеб. пособие для студентов вузов. В 3 т. Т. 1. Технические каналы утечки информации. М. НПЦ Аналитика, 2008. 436 с..md",
-    "Заметки/ПЭМИ.md",
-    "Темы/$Определения.md"
+    "Заметки/IEC C5 и C6.md"
   ]
 }
