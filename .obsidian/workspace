@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bb630401dab3475c",
+        "id": "5774e71ebc7a0df9",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -13,44 +13,7 @@
             "mode": "source",
             "source": false
           }
-        },
-        "group": "6527299fc2e64148"
-      },
-      {
-        "id": "1615b21c6ea31b77",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Темы/$Систематизация ТКУИ.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 0.8791760222775473,
-              "close": false
-            }
-          }
-        },
-        "group": "6527299fc2e64148"
+        }
       }
     ],
     "direction": "vertical"
@@ -90,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 323
   },
   "right": {
     "id": "15aceeff040d56ba",
@@ -121,20 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "bb630401dab3475c",
+  "active": "5774e71ebc7a0df9",
   "lastOpenFiles": [
-    "! Список тем.md",
-    "Заметки/Параметр защищенности для канала ВЧН не нормирован.md",
-    "Заметки/ВЧН.md",
+    "Заметки/Канал утечки ПЭМИ (за счет собственно ЭМИ).md",
     "Темы/$Систематизация ТКУИ.md",
-    "Заметки/Словесная разборчивость речи.md",
-    "Заметки/Критерий защищенности от ПЭМИ (засчет собственно ЭМИ).md",
-    "Заметки/Методика проведения СИ ВЧ АЭП.md",
-    "Заметки/Основные параметры и критерии защищенности каналов на основе ВЧ АЭП.md",
-    "Заметки/Высокочастотное акустоэлектрическое преобразование.md",
-    "Заметки/ПВЧГ с приемом электромагнитного ВЧ-излучения.md"
+    "Заметки/Канал утечки за счет наводок ПЭМИ на случайные антенны.md",
+    "Заметки/Оптико-электронный (лазерный) канал.md",
+    "Заметки/ПВЧГ со съемом ВЧ-сигнала с линии бесконтактным способом.md",
+    "Заметки/ПВЧГ со съемом ВЧ-сигнала с линии контактным способом.md",
+    "Заметки/ПВЧГ с приемом электромагнитного ВЧ-излучения.md",
+    "Заметки/ВЧП по эфиру.md",
+    "Заметки/ВЧП по линии.md",
+    "Заметки/ВЧП.md"
   ]
 }
