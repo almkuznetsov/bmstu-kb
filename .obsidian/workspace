@@ -4,53 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb630401dab3475c",
+        "id": "9445b09c5a9f994f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Темы/$Систематизация ТКУИ.md",
+            "file": "! Список тем.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "6527299fc2e64148"
-      },
-      {
-        "id": "1615b21c6ea31b77",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Темы/$Систематизация ТКУИ.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 0.8791760222775473,
-              "close": false
-            }
-          }
-        },
-        "group": "6527299fc2e64148"
+        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "НПТ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 358.5
   },
   "right": {
     "id": "15aceeff040d56ba",
@@ -106,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Темы/$Систематизация ТКУИ.md",
+                "file": "! Список тем.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bb630401dab3475c",
+  "active": "9445b09c5a9f994f",
   "lastOpenFiles": [
-    "Заметки/Модуляция в отраженном сигнале ВЧО определяется \"на слух\".md",
+    "Заметки/Канал утечки информации за счет изменения тока потребления.md",
+    "Заметки/Предельное допустимое значение отношения величины изменения тока к средней величине потребления тока.md",
     "Темы/$Систематизация ТКУИ.md",
-    "Заметки/ПВЧГ должна отсутствовать.md",
-    "Заметки/ТКУИ за счет перехвата акустических сигналов микрофонами.md",
-    "Заметки/Критерий защищенности от ПЭМИ (засчет собственно ЭМИ).md",
     "! Список тем.md",
-    "Заметки/Параметр защищенности для канала ВЧН не нормирован.md",
-    "Заметки/ВЧН.md",
-    "Заметки/Словесная разборчивость речи.md",
-    "Заметки/Методика проведения СИ ВЧ АЭП.md"
+    "Заметки/Предельное допустимое значение отношения величины изменения тока к средней величине потребления тока не должно превышать нормированное значение.md",
+    "Заметки/Критерий защищенности канала утечки информации НПТ.md",
+    "Заметки/_Критерий защищенности канала утечки информации НПТ.md",
+    "Заметки/Критерий защищенности канала утечки информации по цепям электропитания.md",
+    "Заметки/Канал утечки информации по цепи электропитания.md",
+    "Заметки/ТКУИ за счет перехвата акустических сигналов микрофонами.md"
   ]
 }
