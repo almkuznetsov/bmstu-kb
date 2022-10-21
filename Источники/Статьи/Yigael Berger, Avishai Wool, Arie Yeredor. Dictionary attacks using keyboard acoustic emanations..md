@@ -1,0 +1,1 @@
+https://www.semanticscholar.org/paper/Dictionary-attacks-using-keyboard-acoustic-Berger-Wool/ed63ca11fbe781c777a5aade06586e651adf115c

@@ -1,4 +1,4 @@
-[[Arthur Costa Lopes, Diego F Aranha. Platform-agnostic Low-intrusion Optical Data Exfiltration. 3rd International Conference on Information Systems Security and Privacy (ICISSP), 2017. Р. 474-480]]
+[[Arthur Costa Lopes, Diego F Aranha. Platform-agnostic Low-intrusion Optical Data Exfiltration.]]
 URL: https://www.scitepress.org/Papers/2017/62115/62115.pdf
 
 >19. Цель исследования: 

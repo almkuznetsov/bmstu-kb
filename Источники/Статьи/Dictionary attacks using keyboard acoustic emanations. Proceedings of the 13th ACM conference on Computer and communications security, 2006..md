@@ -1,4 +1,4 @@
-[[Yigael Berger, Avishai Wool, Arie Yeredor. Dictionary attacks using keyboard acoustic emanations. Proceedings of the 13th ACM conference on Computer and communications security, 2006. Р. 245-254.]]
+[[Yigael Berger, Avishai Wool, Arie Yeredor. Dictionary attacks using keyboard acoustic emanations.]]
 URL: https://dl.acm.org/doi/abs/10.1145/1180405.1180436
 
 >14. Цель исследования: 

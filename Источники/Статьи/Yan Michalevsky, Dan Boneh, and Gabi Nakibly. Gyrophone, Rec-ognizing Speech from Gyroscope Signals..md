@@ -1,0 +1,1 @@
+https://www.semanticscholar.org/paper/Gyrophone%3A-Recognizing-Speech-from-Gyroscope-Michalevsky-Boneh/fa66206e9e0a82b8379f81f58877df1071bf1551

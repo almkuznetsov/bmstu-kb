@@ -1,0 +1,1 @@
+http://www.symantec.com/connect/blogs/mind-gap-are-air-gapped-systems-safe-breache

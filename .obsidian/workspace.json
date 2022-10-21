@@ -8,271 +8,187 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e41f925aee10c2ba",
+            "id": "897d78d78a975c34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Темы/$Систематизация ТКУИ.md",
+                "file": "Источники/Статьи/Yigael Berger, Avishai Wool, Arie Yeredor. Dictionary attacks using keyboard acoustic emanations..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "658e475385a1b7cc",
+            "id": "084bab7c860ca33e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Источники/Статьи/Synesthe-sia Detecting Screen Content via Remote Acoustic Side Channels. 2019.md",
+                "file": "Источники/Статьи/Daniel Genkin, Adi Shamir, and Eran Tromer. RSA Key Extraction via Low-Bandwidth Acoustic Cryptanalysis..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "80c3a590186b019b",
+            "id": "59a17025611e2966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Источники/Статьи/ODINI Escaping Sensitive Data from  Faraday-Caged, Air-Gapped Computers via Magnetic Fields. IEEE Transactions on Information Forensics and  Security, 2019.md",
+                "file": "Источники/Статьи/Jian Liu, Yan Wang, Gorkem Kar, Yingying Chen, Jie Yang, Marco Gruteser. Snooping Keystrokes with mm-level Audio Ranging on a Single Phone..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a36c00294b694e8e",
+            "id": "a177cf54061f0957",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Источники/Статьи/MAGNETO Covert Channel between Air-Gapped  Systems and Nearby Smartphones via CPU Generated Magnetic Fields. February 7, 2018.md",
+                "file": "Источники/Статьи/Joe Loughry. Optical TEMPEST..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2997889f8d248880",
+            "id": "82303f648b8e3842",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Источники/Статьи/CTRL-ALT-LED Leaking Data from AirGapped Computers via Keyboard LEDs. 2019.md",
+                "file": "Источники/Статьи/Arthur Costa Lopes, Diego F Aranha. Platform-agnostic Low-intrusion Optical Data Exfiltration..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "948e68392cde65d0",
+            "id": "d5a9d5926dea6e2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Источники/Статьи/xLED Covert Data Exfiltration from  Air-Gapped Networks via Switch and Router LEDs. 2018.md",
+                "file": "Источники/Статьи/J.-P. Power. Mind the gap, are air-gapped systems safe from breach-es Symantec. 2015.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1142d7dfbcc3a2a1",
+            "id": "8612f0cedaf83f9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Источники/Статьи/LED-it-GO Leaking (A Lot of) Data from Air-Gapped  Computers via the (Small) Hard Drive LED. DIMVA 2017..md",
+                "file": "Источники/Статьи/Luke Deshotels. Inaudible Sound as a Covert Channel in Mobile De-vices..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "50b31645d389ab79",
+            "id": "a92f80f7dd9305fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Источники/Статьи/DiskFiltration Data Exfiltration from Speakerless Air-Gapped Computers via Covert Hard Drive Noise. arXiv preprint arXiv 1608.03431, 2016.md",
+                "file": "Источники/Статьи/Michael Hanspach, Michael Goetz. On Covert Acoustical Mesh Net-works in Air..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6d93366e9d7abd26",
+            "id": "56c909fdaeb2a569",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Источники/Статьи/Fansmitter Acoustic data exfiltration from (speakerless) air-gapped computers. arXiv preprint arXiv1606.05915, 2016.md",
+                "file": "Источники/Статьи/Беляев, Д.О., Волчков, Д.Н., Поршнев, С.В. О возможности ис-пользования персонального компьютера как устройства несанкционирован-ного доступа к речевой информации..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5cf60ae090fdbe84",
+            "id": "106ffcf558aa8f3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Источники/Статьи/MOSQUITO Covert Ultrasonic  Transmissions Between Two Air-Gapped Com-puters Using Speaker-To-Speaker Communication. 2018.md",
+                "file": "Источники/Статьи/Yisroel Mirsky, Mordechai Guri, Yuval Elovici. HVACKer, Bridging the Air-Gap by Attacking the Air Conditioning System..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3e3f2f6f2be6073e",
+            "id": "d13b9586d7105c48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Источники/Статьи/aIR-Jumper Covert Air-Gap Exfiltration Infiltration via Security Cameras & Infrared (IR). Computers & Security, vol. 82. P. 15-29.md",
+                "file": "Источники/Статьи/Davide Balzarotti, Marco Cova, Giovanni Vigna. Clearshot, Eaves-dropping on keyboard input from video..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5d9e307a3c5f9569",
+            "id": "44f75cae980379b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Источники/Статьи/PowerHammer Exfiltrating data from air-gapped computers through power lines. IEEE Transactions on Information Forensics and Security, vol 15, 2019.md",
+                "file": "Источники/Статьи/Yan Michalevsky, Dan Boneh, and Gabi Nakibly. Gyrophone, Rec-ognizing Speech from Gyroscope Signals..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fbf1d766686b4b20",
+            "id": "30a7e511bf6b864d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Источники/Статьи/GSMem Data Exfiltration from Air-Gapped Computers over {GSM} Frequencies. 24th {USENIX} Security Symposium ({USENIX} Se-curity 15), 2015.md",
+                "file": "Источники/Статьи/Nirupam Roy and Romit Roy Choudhury. Listening through a Vibra-tion Motor..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6e2a4205a32e4d69",
+            "id": "8bce7562905477b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Источники/Статьи/Keyboard Acoustic Emanations. IEEE Symposium on Security and Privacy, 2004.md",
+                "file": "Источники/Статьи/Teng Wei, Shu Wang, Anfu Zhou, and Xinyu Zhang. Acoustic eaves-dropping through wireless vibrometry..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "672533a2e53d1a20",
+            "id": "2e0891770e0b223c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Источники/Статьи/Acoustic Side-Channel Attacks on Printers. USENIX Security symposium, 2010.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01a31a8b85c1a61b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/Side-channel analysis of Weierstrass and Koblitz curve ECDSA on An-droid smartphones. Cryptographers’ Track at the RSA Conference, 2016.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32c3c1b7607444d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/Dictionary attacks using keyboard acoustic emanations. Proceedings of the 13th ACM conference on Computer and communications security, 2006..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d50befd024d7dce0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/Don’t Skype & Type! Acoustic Eavesdropping in Voice-Over-IP. Proceedings of the 2017 ACM on Asia Conference on Computer and Communications Security, 2017.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d799e95d5bcea53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/RSA Key Extraction via Low-Bandwidth Acoustic Cryptanalysis. Advances in Cryptology–CRYPTO 2014.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89a0e4e80d603128",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/Snooping Keystrokes with mm-level Audio Ranging on a Single Phone. Proceedings of the 21st Annual International Conference on Mobile Computing and Networking, 2015.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de1bc399e029b412",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/Optical TEMPEST. 2018 International Symposium on Electromagnetic Compatibility (EMC EUROPE), 2018.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7a4a151c3792713",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/Platform-agnostic Low-intrusion Optical Data Exfiltration. 3rd International Conference on Information Systems Security and Privacy (ICISSP), 2017.md",
+                "file": "Источники/Статьи/Sriram Sami, Sean Rui, Xiang Tan, Yimin Dai, Nirupam Roy, Jun Han. LidarPhone, acoustic eavesdropping using a lidar sensor..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -330,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Источники/Статьи/Platform-agnostic Low-intrusion Optical Data Exfiltration. 3rd International Conference on Information Systems Security and Privacy (ICISSP), 2017.md",
+                "file": "Источники/Статьи/Sriram Sami, Sean Rui, Xiang Tan, Yimin Dai, Nirupam Roy, Jun Han. LidarPhone, acoustic eavesdropping using a lidar sensor..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,17 +267,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b7a4a151c3792713",
+  "active": "2e0891770e0b223c",
   "lastOpenFiles": [
-    "Источники/Статьи/Optical TEMPEST. 2018 International Symposium on Electromagnetic Compatibility (EMC EUROPE), 2018.md",
-    "Источники/Статьи/Snooping Keystrokes with mm-level Audio Ranging on a Single Phone. Proceedings of the 21st Annual International Conference on Mobile Computing and Networking, 2015.md",
-    "Источники/Статьи/RSA Key Extraction via Low-Bandwidth Acoustic Cryptanalysis. Advances in Cryptology–CRYPTO 2014.md",
-    "Источники/Статьи/Don’t Skype & Type! Acoustic Eavesdropping in Voice-Over-IP. Proceedings of the 2017 ACM on Asia Conference on Computer and Communications Security, 2017.md",
-    "Источники/Статьи/Dictionary attacks using keyboard acoustic emanations. Proceedings of the 13th ACM conference on Computer and communications security, 2006..md",
-    "Источники/Статьи/Side-channel analysis of Weierstrass and Koblitz curve ECDSA on An-droid smartphones. Cryptographers’ Track at the RSA Conference, 2016.md",
-    "Источники/Статьи/Acoustic Side-Channel Attacks on Printers. USENIX Security symposium, 2010.md",
-    "Источники/Статьи/Keyboard Acoustic Emanations. IEEE Symposium on Security and Privacy, 2004.md",
-    "Источники/Статьи/GSMem Data Exfiltration from Air-Gapped Computers over {GSM} Frequencies. 24th {USENIX} Security Symposium ({USENIX} Se-curity 15), 2015.md",
-    "Источники/Статьи/PowerHammer Exfiltrating data from air-gapped computers through power lines. IEEE Transactions on Information Forensics and Security, vol 15, 2019.md"
+    "Источники/Статьи/Jun Han, Albert Jin Chung, and Patrick Tague. Pitchln, eavesdrop-ping via intelligible speech reconstruction using non-acoustic sensor fusion..md",
+    "Источники/Статьи/Alber to Compagno, Mauro Conti, Daniele Lain, Gene Tsudik. Don’t Skype & Type! Acoustic Eavesdropping in Voice-Over-IP..md",
+    "Источники/Статьи/Teng Wei, Shu Wang, Anfu Zhou, and Xinyu Zhang. Acoustic eaves-dropping through wireless vibrometry..md",
+    "Источники/Статьи/Nirupam Roy and Romit Roy Choudhury. Listening through a Vibra-tion Motor..md",
+    "Источники/Статьи/Yan Michalevsky, Dan Boneh, and Gabi Nakibly. Gyrophone, Rec-ognizing Speech from Gyroscope Signals..md",
+    "Источники/Статьи/Davide Balzarotti, Marco Cova, Giovanni Vigna. Clearshot, Eaves-dropping on keyboard input from video..md",
+    "Источники/Статьи/Yisroel Mirsky, Mordechai Guri, Yuval Elovici. HVACKer, Bridging the Air-Gap by Attacking the Air Conditioning System..md",
+    "Источники/Статьи/Беляев, Д.О., Волчков, Д.Н., Поршнев, С.В. О возможности ис-пользования персонального компьютера как устройства несанкционирован-ного доступа к речевой информации..md",
+    "Источники/Статьи/Michael Hanspach, Michael Goetz. On Covert Acoustical Mesh Net-works in Air..md",
+    "Источники/Статьи/Luke Deshotels. Inaudible Sound as a Covert Channel in Mobile De-vices..md"
   ]
 }

@@ -1,4 +1,4 @@
-[[Daniel Genkin, Adi Shamir, and Eran Tromer. RSA Key Extraction via Low-Bandwidth Acoustic Cryptanalysis. Advances in Cryptology–CRYPTO 2014, 2014. Р. 444-461]]
+[[Daniel Genkin, Adi Shamir, and Eran Tromer. RSA Key Extraction via Low-Bandwidth Acoustic Cryptanalysis.]]
 URL: https://link.springer.com/chapter/10.1007/978-3-662-44371-2_25
 
 >16. Цель исследования: 

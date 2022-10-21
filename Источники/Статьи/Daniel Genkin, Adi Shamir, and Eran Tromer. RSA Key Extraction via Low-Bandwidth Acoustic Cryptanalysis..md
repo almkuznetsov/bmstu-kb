@@ -1,0 +1,1 @@
+https://www.semanticscholar.org/paper/RSA-Key-Extraction-via-Low-Bandwidth-Acoustic-Genkin-Shamir/962ffb68cd2b0cd0addb550c6a09815243b146a0

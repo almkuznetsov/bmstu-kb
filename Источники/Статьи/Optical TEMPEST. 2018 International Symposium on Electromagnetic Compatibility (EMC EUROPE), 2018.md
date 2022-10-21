@@ -1,4 +1,4 @@
-[[Joe Loughry. Optical TEMPEST. 2018 International Symposium on Electromagnetic Compatibility (EMC EUROPE), 2018. Р. 172-177]]
+[[Joe Loughry. Optical TEMPEST.]]
 URL: https://arxiv.org/pdf/1808.07175.pdf
 
 >18. Цель исследования: 

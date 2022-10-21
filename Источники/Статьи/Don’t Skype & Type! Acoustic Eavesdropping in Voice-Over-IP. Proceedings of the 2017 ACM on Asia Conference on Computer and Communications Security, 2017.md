@@ -1,4 +1,4 @@
-[[Alber to Compagno, Mauro Conti, Daniele Lain, Gene Tsudik. Don’t Skype & Type! Acoustic Eavesdropping in Voice-Over-IP. Proceedings of the 2017 ACM on Asia Conference on Computer and Communications Security, 2017. Р. 703-715]]
+[[Alber to Compagno, Mauro Conti, Daniele Lain, Gene Tsudik. Don’t Skype & Type! Acoustic Eavesdropping in Voice-Over-IP.]]
 URL: https://arxiv.org/pdf/1609.09359.pdf
 
 >15. Цель исследования: 

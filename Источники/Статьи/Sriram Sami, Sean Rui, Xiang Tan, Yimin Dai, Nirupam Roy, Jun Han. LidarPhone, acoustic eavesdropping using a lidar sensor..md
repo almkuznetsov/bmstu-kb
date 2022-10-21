@@ -1,0 +1,1 @@
+www.cs.umd.edu/~nirupam/images/2_publication/posters_demo/writeup/LidarPhone_poster_SenSys20_nirupam.pdf
