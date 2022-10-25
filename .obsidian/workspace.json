@@ -8,187 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "897d78d78a975c34",
+            "id": "e41f925aee10c2ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Источники/Статьи/Yigael Berger, Avishai Wool, Arie Yeredor. Dictionary attacks using keyboard acoustic emanations..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "084bab7c860ca33e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/Daniel Genkin, Adi Shamir, and Eran Tromer. RSA Key Extraction via Low-Bandwidth Acoustic Cryptanalysis..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59a17025611e2966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/Jian Liu, Yan Wang, Gorkem Kar, Yingying Chen, Jie Yang, Marco Gruteser. Snooping Keystrokes with mm-level Audio Ranging on a Single Phone..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a177cf54061f0957",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/Joe Loughry. Optical TEMPEST..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82303f648b8e3842",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/Arthur Costa Lopes, Diego F Aranha. Platform-agnostic Low-intrusion Optical Data Exfiltration..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5a9d5926dea6e2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/J.-P. Power. Mind the gap, are air-gapped systems safe from breach-es Symantec. 2015.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8612f0cedaf83f9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/Luke Deshotels. Inaudible Sound as a Covert Channel in Mobile De-vices..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a92f80f7dd9305fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/Michael Hanspach, Michael Goetz. On Covert Acoustical Mesh Net-works in Air..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56c909fdaeb2a569",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/Беляев, Д.О., Волчков, Д.Н., Поршнев, С.В. О возможности ис-пользования персонального компьютера как устройства несанкционирован-ного доступа к речевой информации..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "106ffcf558aa8f3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/Yisroel Mirsky, Mordechai Guri, Yuval Elovici. HVACKer, Bridging the Air-Gap by Attacking the Air Conditioning System..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d13b9586d7105c48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/Davide Balzarotti, Marco Cova, Giovanni Vigna. Clearshot, Eaves-dropping on keyboard input from video..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44f75cae980379b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/Yan Michalevsky, Dan Boneh, and Gabi Nakibly. Gyrophone, Rec-ognizing Speech from Gyroscope Signals..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30a7e511bf6b864d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/Nirupam Roy and Romit Roy Choudhury. Listening through a Vibra-tion Motor..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bce7562905477b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/Teng Wei, Shu Wang, Anfu Zhou, and Xinyu Zhang. Acoustic eaves-dropping through wireless vibrometry..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e0891770e0b223c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Источники/Статьи/Sriram Sami, Sean Rui, Xiang Tan, Yimin Dai, Nirupam Roy, Jun Han. LidarPhone, acoustic eavesdropping using a lidar sensor..md",
-                "mode": "source",
+                "file": "Источники/Статьи/Богатиков В. Н. и др. Анализ акустоэлектрических преобразователей в составе вспомогательных технических средств и систем Вестник Международной академии системных исследований. Информатика, экология, экономика. – 2020.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Источники/Статьи/Sriram Sami, Sean Rui, Xiang Tan, Yimin Dai, Nirupam Roy, Jun Han. LidarPhone, acoustic eavesdropping using a lidar sensor..md",
+                "file": "Источники/Статьи/Богатиков В. Н. и др. Анализ акустоэлектрических преобразователей в составе вспомогательных технических средств и систем Вестник Международной академии системных исследований. Информатика, экология, экономика. – 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,17 +98,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2e0891770e0b223c",
+  "active": "e41f925aee10c2ba",
   "lastOpenFiles": [
-    "Источники/Статьи/Jun Han, Albert Jin Chung, and Patrick Tague. Pitchln, eavesdrop-ping via intelligible speech reconstruction using non-acoustic sensor fusion..md",
-    "Источники/Статьи/Alber to Compagno, Mauro Conti, Daniele Lain, Gene Tsudik. Don’t Skype & Type! Acoustic Eavesdropping in Voice-Over-IP..md",
-    "Источники/Статьи/Teng Wei, Shu Wang, Anfu Zhou, and Xinyu Zhang. Acoustic eaves-dropping through wireless vibrometry..md",
-    "Источники/Статьи/Nirupam Roy and Romit Roy Choudhury. Listening through a Vibra-tion Motor..md",
-    "Источники/Статьи/Yan Michalevsky, Dan Boneh, and Gabi Nakibly. Gyrophone, Rec-ognizing Speech from Gyroscope Signals..md",
-    "Источники/Статьи/Davide Balzarotti, Marco Cova, Giovanni Vigna. Clearshot, Eaves-dropping on keyboard input from video..md",
-    "Источники/Статьи/Yisroel Mirsky, Mordechai Guri, Yuval Elovici. HVACKer, Bridging the Air-Gap by Attacking the Air Conditioning System..md",
-    "Источники/Статьи/Беляев, Д.О., Волчков, Д.Н., Поршнев, С.В. О возможности ис-пользования персонального компьютера как устройства несанкционирован-ного доступа к речевой информации..md",
-    "Источники/Статьи/Michael Hanspach, Michael Goetz. On Covert Acoustical Mesh Net-works in Air..md",
-    "Источники/Статьи/Luke Deshotels. Inaudible Sound as a Covert Channel in Mobile De-vices..md"
+    "Источники/Статьи/Белоглазов Е. Г. Моделирование технических каналов утечки информации с целью улучшения их защищенности Fractal simulation. – 2015. – №. 1 (7). – С. 5-11..md",
+    "Заметки/ВТСС.md",
+    "Источники/Учебные пособия/Терминология в области защиты информации Справочник. – М. ВНИИ «Стандарт», 1993. – 110с..md",
+    "Источники/Статьи/Богатиков В. Н. и др. Анализ акустоэлектрических преобразователей в составе вспомогательных технических средств и систем Вестник Международной академии системных исследований. Информатика, экология, экономика. – 2020.md",
+    "Темы/$Определения.md",
+    "Заметки/Зона ЭМИ.md",
+    "Темы/$Систематизация ТКУИ.md",
+    "Источники/Статьи/Snooping Keystrokes with mm-level Audio Ranging on a Single Phone. Proceedings of the 21st Annual International Conference on Mobile Computing and Networking, 2015.md",
+    "Источники/Статьи/Dictionary attacks using keyboard acoustic emanations. Proceedings of the 13th ACM conference on Computer and communications security, 2006..md",
+    "Источники/Статьи/Acoustic Side-Channel Attacks on Printers. USENIX Security symposium, 2010.md"
   ]
 }
