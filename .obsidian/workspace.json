@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки/ТКУИ.md",
-                "mode": "preview",
+                "file": "ОТСС.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/ТКУИ.md",
+                "file": "ОТСС.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "e41f925aee10c2ba",
   "lastOpenFiles": [
+    "Заметки/Паразитная генерация.md",
+    "Темы/$Систематизация ТКУИ.md",
+    "Заметки/ВТСС.md",
     "Темы/$Определения.md",
+    "ОТСС.md",
+    "Заметки/ПВЧГ.md",
+    "Заметки/ТКУИ.md",
     "Заметки/ТСПИ.md",
     "Источники/Учебные пособия/Сидак А.А., Василенко В.В., Рыженко С.В. Информационная безопасность. Физические основы технических каналов утечки информации. DirectMedia Москва 2022.md",
-    "Заметки/ТКУИ.md",
-    "Темы/$Систематизация ТКУИ.md",
-    "Источники/Нормативные документы/ГОСТ/ГОСТ Р 50922-2006. Защита информации. Основные термины и определения.md",
-    "Источники/Статьи/CTRL-ALT-LED Leaking Data from AirGapped Computers via Keyboard LEDs. 2019.md",
-    "Источники/Статьи/aIR-Jumper Covert Air-Gap Exfiltration Infiltration via Security Cameras & Infrared (IR). Computers & Security, vol. 82. P. 15-29.md",
-    "Источники/Статьи/Acoustic Side-Channel Attacks on Printers. USENIX Security symposium, 2010.md",
-    "Источники/Статьи/Joe Loughry. Optical TEMPEST..md"
+    "Источники/Нормативные документы/ГОСТ/ГОСТ Р 50922-2006. Защита информации. Основные термины и определения.md"
   ]
 }
