@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Источники/Статьи/Богатиков В. Н. и др. Анализ акустоэлектрических преобразователей в составе вспомогательных технических средств и систем Вестник Международной академии системных исследований. Информатика, экология, экономика. – 2020.md",
+                "file": "Заметки/ТКУИ.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Источники/Статьи/Богатиков В. Н. и др. Анализ акустоэлектрических преобразователей в составе вспомогательных технических средств и систем Вестник Международной академии системных исследований. Информатика, экология, экономика. – 2020.md",
+                "file": "Заметки/ТКУИ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "e41f925aee10c2ba",
   "lastOpenFiles": [
-    "Источники/Статьи/Белоглазов Е. Г. Моделирование технических каналов утечки информации с целью улучшения их защищенности Fractal simulation. – 2015. – №. 1 (7). – С. 5-11..md",
-    "Заметки/ВТСС.md",
-    "Источники/Учебные пособия/Терминология в области защиты информации Справочник. – М. ВНИИ «Стандарт», 1993. – 110с..md",
-    "Источники/Статьи/Богатиков В. Н. и др. Анализ акустоэлектрических преобразователей в составе вспомогательных технических средств и систем Вестник Международной академии системных исследований. Информатика, экология, экономика. – 2020.md",
     "Темы/$Определения.md",
-    "Заметки/Зона ЭМИ.md",
+    "Заметки/ТСПИ.md",
+    "Источники/Учебные пособия/Сидак А.А., Василенко В.В., Рыженко С.В. Информационная безопасность. Физические основы технических каналов утечки информации. DirectMedia Москва 2022.md",
+    "Заметки/ТКУИ.md",
     "Темы/$Систематизация ТКУИ.md",
-    "Источники/Статьи/Snooping Keystrokes with mm-level Audio Ranging on a Single Phone. Proceedings of the 21st Annual International Conference on Mobile Computing and Networking, 2015.md",
-    "Источники/Статьи/Dictionary attacks using keyboard acoustic emanations. Proceedings of the 13th ACM conference on Computer and communications security, 2006..md",
-    "Источники/Статьи/Acoustic Side-Channel Attacks on Printers. USENIX Security symposium, 2010.md"
+    "Источники/Нормативные документы/ГОСТ/ГОСТ Р 50922-2006. Защита информации. Основные термины и определения.md",
+    "Источники/Статьи/CTRL-ALT-LED Leaking Data from AirGapped Computers via Keyboard LEDs. 2019.md",
+    "Источники/Статьи/aIR-Jumper Covert Air-Gap Exfiltration Infiltration via Security Cameras & Infrared (IR). Computers & Security, vol. 82. P. 15-29.md",
+    "Источники/Статьи/Acoustic Side-Channel Attacks on Printers. USENIX Security symposium, 2010.md",
+    "Источники/Статьи/Joe Loughry. Optical TEMPEST..md"
   ]
 }
