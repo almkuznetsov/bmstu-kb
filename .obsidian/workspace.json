@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7d7110ca2ae62bb8",
+        "id": "50a70d3a503e1d35",
         "type": "tabs",
         "children": [
           {
-            "id": "e41f925aee10c2ba",
+            "id": "d2ec70f04d402d47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ОТСС.md",
+                "file": "Темы/$Систематизация ТКУИ.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ОТСС.md",
+                "file": "Темы/$Систематизация ТКУИ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e41f925aee10c2ba",
+  "active": "d2ec70f04d402d47",
   "lastOpenFiles": [
-    "Заметки/Паразитная генерация.md",
+    "Заметки/Канал утечки акустической речевой информации за счет низкочастотного акустоэлектрического преобразования со съемом по эфиру.md",
     "Темы/$Систематизация ТКУИ.md",
-    "Заметки/ВТСС.md",
-    "Темы/$Определения.md",
     "ОТСС.md",
-    "Заметки/ПВЧГ.md",
+    "Заметки/Акустоэлектрическое преобразование.md",
+    "Темы/$Определения.md",
+    "Заметки/Канал утечки телекоммуникационной информации за счет наводок ПЭМИ на случайные антенны со съемом по эфиру.md",
     "Заметки/ТКУИ.md",
-    "Заметки/ТСПИ.md",
-    "Источники/Учебные пособия/Сидак А.А., Василенко В.В., Рыженко С.В. Информационная безопасность. Физические основы технических каналов утечки информации. DirectMedia Москва 2022.md",
-    "Источники/Нормативные документы/ГОСТ/ГОСТ Р 50922-2006. Защита информации. Основные термины и определения.md"
+    "Источники/Статьи/Teng Wei, Shu Wang, Anfu Zhou, and Xinyu Zhang. Acoustic eaves-dropping through wireless vibrometry..md",
+    "Источники/Статьи/Nirupam Roy and Romit Roy Choudhury. Listening through a Vibra-tion Motor..md",
+    "Источники/Статьи/Yan Michalevsky, Dan Boneh, and Gabi Nakibly. Gyrophone, Rec-ognizing Speech from Gyroscope Signals..md"
   ]
 }
