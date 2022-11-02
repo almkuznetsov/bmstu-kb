@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Темы/$Систематизация ТКУИ.md",
-                "mode": "source",
+                "file": "Темы/$Определения.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Темы/$Систематизация ТКУИ.md",
+                "file": "Темы/$Определения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d2ec70f04d402d47",
+  "active": "a6c935804fafa1fe",
   "lastOpenFiles": [
-    "Заметки/Канал утечки акустической речевой информации за счет низкочастотного акустоэлектрического преобразования со съемом по эфиру.md",
-    "Темы/$Систематизация ТКУИ.md",
-    "ОТСС.md",
-    "Заметки/Акустоэлектрическое преобразование.md",
+    "Заметки/Видовая информация.md",
     "Темы/$Определения.md",
-    "Заметки/Канал утечки телекоммуникационной информации за счет наводок ПЭМИ на случайные антенны со съемом по эфиру.md",
+    "Заметки/Акустическая волна.md",
     "Заметки/ТКУИ.md",
-    "Источники/Статьи/Teng Wei, Shu Wang, Anfu Zhou, and Xinyu Zhang. Acoustic eaves-dropping through wireless vibrometry..md",
-    "Источники/Статьи/Nirupam Roy and Romit Roy Choudhury. Listening through a Vibra-tion Motor..md",
-    "Источники/Статьи/Yan Michalevsky, Dan Boneh, and Gabi Nakibly. Gyrophone, Rec-ognizing Speech from Gyroscope Signals..md"
+    "Темы/$Систематизация ТКУИ.md",
+    "Заметки/Канал утечки акустической речевой информации за счет низкочастотного акустоэлектрического преобразования со съемом по эфиру.md",
+    "Заметки/ОТСС.md",
+    "Заметки/Акустоэлектрическое преобразование.md",
+    "Заметки/Канал утечки телекоммуникационной информации за счет наводок ПЭМИ на случайные антенны со съемом по эфиру.md",
+    "Источники/Статьи/Teng Wei, Shu Wang, Anfu Zhou, and Xinyu Zhang. Acoustic eaves-dropping through wireless vibrometry..md"
   ]
 }
