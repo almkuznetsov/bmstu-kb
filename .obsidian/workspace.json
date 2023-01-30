@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "9c31524c8334f24b",
+    "type": "split",
+    "children": [
+      {
+        "id": "50a70d3a503e1d35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2ec70f04d402d47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Источники/Нормативные документы/Постановление Правительства РФ от 01.11.2012 г. N 1119 г. Об утверждении требований к защите ПДн при их обработке в ИСПДн.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07ccbcb05e36a88e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b310156a0d6ed325",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6c935804fafa1fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c95a72a091c3dd37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Скрытые",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323
+  },
+  "right": {
+    "id": "15aceeff040d56ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "637b66d1ed2578d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ca8acb83dfd9884",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Источники/Нормативные документы/Постановление Правительства РФ от 01.11.2012 г. N 1119 г. Об утверждении требований к защите ПДн при их обработке в ИСПДн.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes": false
+    }
+  },
+  "active": "d2ec70f04d402d47",
+  "lastOpenFiles": [
+    "Источники/Нормативные документы/Методика определения актуальных угроз безопасности персональных данных при их обработке в информационных системах персональных данных, ФСТЭК России, 2008 год.md",
+    "Источники/Нормативные документы/Постановление Правительства РФ от 01.11.2012 г. N 1119 г. Об утверждении требований к защите ПДн при их обработке в ИСПДн.md",
+    "Источники/Нормативные документы/ГОСТ/ГОСТ IEC 61000-4-3-2016. ЭМС Часть 4-3 МЕТОДЫ ИСПЫТАНИЙ И ИЗМЕРЕНИЙ Испытание на устойчивость к излучаемому радиочастотному эм полю.md",
+    "Источники/Нормативные документы/Федеральный закон от 27 июля 2006 г. N 152-ФЗ О персональных данных.md",
+    "Источники/Нормативные документы/Федеральный закон Об информации, информационных технологиях и о защите информации от 27.07.2006 N 149-ФЗ.md",
+    "Источники/Нормативные документы/Комментарий к IEC 2382-1 1993 Information technology — Vocabulary.md",
+    "Источники/Нормативные документы/ISO/IEC 2382-1 1993 Information technology — Vocabulary.md",
+    "Источники/Статьи/Поршнев С. В., Беляев Д. О. СКРЫТЫЕ ТКУИ, ОБРАБАТЫВАЕМОЙ В СР ВЫЧ ТЕХНИКИ АНАЛИЗ ДЕЙСТВУЮЩЕЙ НОРМАТИВНОМЕТОДИЧЕСКОЙ БАЗЫ, ТЕРМИНОЛОГИЯ Вестник УрФО. Безопасность в информационной сфере. – 2021.md",
+    "Источники/Статьи/Поршнев С. В., Беляев Д. О. Скрытые ТКУИ, обрабатываемой средствами вычислительной техники анализ результатов исследований Вестник УрФО. Безопасность в информационной сфере 2020.md",
+    "Заметки/Скрытые ТКУИ.md"
+  ]
+}
