@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "9c31524c8334f24b",
+    "id": "ea0ec75fadce7206",
     "type": "split",
     "children": [
       {
-        "id": "28b6c8bd77960b51",
+        "id": "e10da963a8ba095d",
         "type": "tabs",
         "children": [
           {
-            "id": "f6c22cdf73bedab0",
+            "id": "17c26cea419814e0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "07ccbcb05e36a88e",
+    "id": "1ece5100680f9660",
     "type": "split",
     "children": [
       {
-        "id": "b310156a0d6ed325",
+        "id": "29cb34f1e4368d7c",
         "type": "tabs",
         "children": [
           {
-            "id": "a6c935804fafa1fe",
+            "id": "1849647ac69d3930",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,36 +39,44 @@
             }
           },
           {
-            "id": "c95a72a091c3dd37",
+            "id": "e1195b9c63b0481e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "4aa789efba6889ed",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 300
   },
   "right": {
-    "id": "15aceeff040d56ba",
+    "id": "02c118eef1ac229a",
     "type": "split",
     "children": [
       {
-        "id": "637b66d1ed2578d9",
+        "id": "0dfe3ad95331f337",
         "type": "tabs",
         "children": [
           {
-            "id": "2ca8acb83dfd9884",
+            "id": "7ad8de236656628d",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -78,9 +86,39 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "e5b3d2ca07e0423b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24dd1b9965ede18d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7e77e88fb8eb11e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
             }
           }
         ]
@@ -95,22 +133,11 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "publish:Publish changes": false
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "f6c22cdf73bedab0",
-  "lastOpenFiles": [
-    "Темы/$Определения.md",
-    "Заметки/Скрытые технические каналы утечки информации.md",
-    "Заметки/Акустическая волна.md",
-    "Заметки/Среда распространения инормативного сигнала.md",
-    "Заметки/Канал утечки акустической речевой информации за счет низкочастотного акустоэлектрического преобразования со съемом по эфиру.md",
-    "Темы/$Систематизация ТКУИ.md",
-    "Темы/$Определения в области ТЗИ.md",
-    "Untitled.canvas",
-    "Untitled 2.canvas",
-    "Заметки/ТКУИ.md"
-  ]
+  "active": "1849647ac69d3930",
+  "lastOpenFiles": []
 }
