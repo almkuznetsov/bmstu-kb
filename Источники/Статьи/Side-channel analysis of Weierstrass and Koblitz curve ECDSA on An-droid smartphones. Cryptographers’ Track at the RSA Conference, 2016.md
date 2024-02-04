@@ -1,4 +1,4 @@
-[[Pierre Belgarric, Pierre-Alain Fouque, Gilles Macario-Rat, Mehdi Ti-bouchi. Side-channel analysis of Weierstrass and Koblitz curve ECDSA on An-droid smartphones. Cryptographers’ Track at the RSA Conference, 2016. Р. 236-252]]
+Pierre Belgarric, Pierre-Alain Fouque, Gilles Macario-Rat, Mehdi Ti-bouchi. Side-channel analysis of Weierstrass and Koblitz curve ECDSA on An-droid smartphones. Cryptographers’ Track at the RSA Conference, 2016. Р. 236-252
 URL: https://eprint.iacr.org/2016/231.pdf
 
 >13. Цель исследования: 
@@ -6,3 +6,5 @@ URL: https://eprint.iacr.org/2016/231.pdf
 >Результаты исследования:
 >– доказано, что при использовании эллиптических кривых над простыми полями удается достаточно эффективно восстанавливать секретный ключ на смартфонах, функционирующих по управлением ОС Android, используя боковой (побочный) канал; 
 >– впервые продемонстрирована возможность различения операций удвоения и сложения, выполняемых при использовании кривых Коблица. реализуемых в многоядерном процессоре с тактовой частотой более гига-герца
+>
+>[[Поршнев С. В., Беляев Д. О. Скрытые ТКУИ, обрабатываемой средствами вычислительной техники анализ результатов исследований Вестник УрФО. Безопасность в информационной сфере 2020]]

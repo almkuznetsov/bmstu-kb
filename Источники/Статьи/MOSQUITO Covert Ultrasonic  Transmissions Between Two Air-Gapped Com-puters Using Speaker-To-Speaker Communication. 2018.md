@@ -1,4 +1,4 @@
-[[Mordechai Guri, Yosef Solewicz, Andrey Daidakulov, Yuval Elovici. MOSQUITO Covert Ultrasonic Transmissions Between Two Air-Gapped Com-puters Using Speaker-To-Speaker Communication. 2018 IEEE Conference on Dependable and Secure Computing (DSC), 2018. Р. 1-8]]
+Mordechai Guri, Yosef Solewicz, Andrey Daidakulov, Yuval Elovici. MOSQUITO Covert Ultrasonic Transmissions Between Two Air-Gapped Com-puters Using Speaker-To-Speaker Communication. 2018 IEEE Conference on Dependable and Secure Computing (DSC), 2018. Р. 1-8
 URL: https://ieeexplore.ieee.org/abstract/document/8625124
 
 
@@ -9,3 +9,5 @@ URL: https://ieeexplore.ieee.org/abstract/document/8625124
 >– подтверждена работоспособность предложенного метода несанкционированного доступа к аудиоинформации, в том числе приведены экспериментальные результаты, подтверждающие возможность перехвата в ультразвуковом диапазоне звуковых сигналов, в том числе продемонстрирована возможность перехвата аудиоинформации по исследуемому ТКУИ, компьютером, удаленным от атакуемого компьютера на расстояние до 9 м; 
 >– установлено, что максимальная чувствительность динамиков и наушников, используемые пользователями мультимедийных компьютеров, находится в ближнем ультразвуковом диапазоне звуковых волн (от 18 кГц до 24 кГц); 
 >– подтверждена возможность прямой передачи на расстояниях до 3 м скрытой связи между наушниками атакуемого компьютера и компьютером атакующего и передачи по данному ТКУИ аудиоинформации в ультразвуковом диапазоне
+>
+>[[Поршнев С. В., Беляев Д. О. Скрытые ТКУИ, обрабатываемой средствами вычислительной техники анализ результатов исследований Вестник УрФО. Безопасность в информационной сфере 2020]]

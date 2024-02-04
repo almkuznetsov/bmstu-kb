@@ -1,4 +1,4 @@
-[[Mordechai Guri, Boris Zadov, Andrey Daidakulov, Yuval Elovici. xLED: Covert Data Exfiltration from Air-Gapped Networks via Switch and Router LEDs. 2018 16th Annual Conference on Privacy, Security and Trust (PST), 2018. Р. 1-12.]]
+Mordechai Guri, Boris Zadov, Andrey Daidakulov, Yuval Elovici. xLED: Covert Data Exfiltration from Air-Gapped Networks via Switch and Router LEDs. 2018 16th Annual Conference on Privacy, Security and Trust (PST), 2018. Р. 1-12.
 URL: https://arxiv.org/abs/1706.01140 
 
 >4. Цель исследования: 
@@ -14,3 +14,5 @@ URL: https://arxiv.org/abs/1706.01140
   • на уровне микропрограммного обеспечения, в которых вредоносное программное обеспечение устанавливается на микропрограммном уровне сетевого коммутатора или маршрутизатора; 
   • вредоносный программный код имеет доступ к информации, передаваемой в защищенной компьютерной сети; 
   • атаки на уровне программного обеспечения, в которых вредоносный код управляет светодиодами с зараженного компьютера через стандартные каналы удаленного управления (например, SSH и telnet) или используя определенных уязвимостей компьютерной сети, при этом не требуется наличие вредоносной прошивки у маршрутизатора.
+  >
+  >[[Поршнев С. В., Беляев Д. О. Скрытые ТКУИ, обрабатываемой средствами вычислительной техники анализ результатов исследований Вестник УрФО. Безопасность в информационной сфере 2020]]

@@ -1,4 +1,4 @@
-[[Michael Backes, Markus Dürmuth, Sebastian Gerling, Manfred Pinkal, Caroline Sporleder. Acoustic Side-Channel Attacks on Printers. USENIX Security symposium, 2010. Р. 307-322]]
+Michael Backes, Markus Dürmuth, Sebastian Gerling, Manfred Pinkal, Caroline Sporleder. Acoustic Side-Channel Attacks on Printers. USENIX Security symposium, 2010. Р. 307-322
 URL: https://www.usenix.org/legacy/event/sec10/tech/full_papers/Backes.pdf
 
 >12. Цель исследования: 
@@ -6,3 +6,5 @@ URL: https://www.usenix.org/legacy/event/sec10/tech/full_papers/Backes.pdf
 >Результаты исследования: 
 >– доказано, что при отсутствии априорных знаний о тексте, выводимом на печать, было правильно распознано около 72% напечатанных слов; 
 >– доказано, что при наличии априорных сведений о тексте, выводимом на печать, было правильно распознано около 95 % напечатанных слов.
+>
+>[[Поршнев С. В., Беляев Д. О. Скрытые ТКУИ, обрабатываемой средствами вычислительной техники анализ результатов исследований Вестник УрФО. Безопасность в информационной сфере 2020]]
