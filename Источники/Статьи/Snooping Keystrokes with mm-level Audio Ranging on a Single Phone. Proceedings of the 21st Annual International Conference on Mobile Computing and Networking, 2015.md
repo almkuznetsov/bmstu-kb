@@ -1,4 +1,4 @@
-[[Jian Liu, Yan Wang, Gorkem Kar, Yingying Chen, Jie Yang, Marco Gruteser. Snooping Keystrokes with mm-level Audio Ranging on a Single Phone. Proceedings of the 21st Annual International Conference on Mobile Computing and Networking, 2015. Р. 142-154.]]
+Jian Liu, Yan Wang, Gorkem Kar, Yingying Chen, Jie Yang, Marco Gruteser. Snooping Keystrokes with mm-level Audio Ranging on a Single Phone. Proceedings of the 21st Annual International Conference on Mobile Computing and Networking, 2015. Р. 142-154.
 URL: https://dl.acm.org/doi/abs/10.1145/2789168.2790122
 
 >17. Цель исследования: 
@@ -6,3 +6,5 @@ URL: https://dl.acm.org/doi/abs/10.1145/2789168.2790122
 >Результаты исследования: 
 >– предложен метод идентификации нажимаемых клавиш клавиатуры, основанный на анализе временных задержек акустических сигналов, гарнируемых при последовательном нажатии на клавиши, а также анализе характеристик акустических сигналов с целью идентификации нескольких нажатий одной и той же клавиши, который не требует использования маркированных обучающих данных, а также лингвистического контекста; 
 >– получены оценки качества идентификации нажатых клавиш на клавиатурах трех типов смартфонов, свидетельствующие о том, что точность разработанного авторами метода анализа перехваченных акустических сигналов составила 94%.
+>
+>[[Поршнев С. В., Беляев Д. О. Скрытые ТКУИ, обрабатываемой средствами вычислительной техники анализ результатов исследований Вестник УрФО. Безопасность в информационной сфере 2020]]

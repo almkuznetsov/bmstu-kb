@@ -1,0 +1,2 @@
+https://arxiv.org/pdf/2207.07413.pd
+Guri M. SATAn: Air-Gap Exfiltration Attack via Radio Signals From SATA Cables //2022 19th Annual International Conference on Privacy, Security & Trust (PST). – IEEE, 2022. – С. 1-10.

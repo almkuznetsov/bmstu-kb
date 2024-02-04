@@ -1,5 +1,5 @@
-[[Daniel Genkin, Mihir Pattani, Roei Schuster, Eran Tromer. Synesthe-sia Detecting Screen Content via Remote Acoustic Side Channels. 2019 IEEE Symposium on Security and Privacy (SP), 2019. Р. 853-869.]]]  URL:
-https://ieeexplore.ieee.org/abstract/document/8835386 
+Daniel Genkin, Mihir Pattani, Roei Schuster, Eran Tromer. Synesthe-sia Detecting Screen Content via Remote Acoustic Side Channels. 2019 IEEE Symposium on Security and Privacy (SP), 2019. Р. 853-869.  
+URL: https://ieeexplore.ieee.org/abstract/document/8835386 
 
 >1. Цель исследования: 
 >подтверждение гипотезы о возможности обнаружения и извлечения информации, выводимой на экран ЖК монитора, по акустическим излучениям, сопровождающим процесс отображения инфор-мации на экране ЖК монитора, с использованием тест-сигнала типа «зебра» и экранных клавиатур.
@@ -9,3 +9,5 @@ https://ieeexplore.ieee.org/abstract/document/8835386
 >– определены источники акустического излучения в ЖК мониторе; 
 >– доказана возможность извлечения информации о коде нажатой клавиши экранной клавиатуры из акустических сигналов, создаваемых экраном;
 >– для доказательства возможности распознавания символов и слов в акустическом сигнале, перехваченном по данному ТКУИ, разработано мобильное приложение, функционирующее на основе сверхточных нейронных сетей.
+>
+>[[Поршнев С. В., Беляев Д. О. Скрытые ТКУИ, обрабатываемой средствами вычислительной техники анализ результатов исследований Вестник УрФО. Безопасность в информационной сфере 2020]]
